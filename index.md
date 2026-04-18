@@ -4,57 +4,44 @@ title: Home
 permalink: /
 ---
 
-<div class="terminal-hero">
-  <div class="terminal-bar">
-    <span></span><span></span><span></span>
+<div class="hero">
+  <p class="kicker">Academic Portfolio</p>
+  <h1>Alan (Xinchen) He</h1>
+  <p class="subtitle">MSci Chemistry with Molecular Physics · Imperial College London</p>
+  <p>
+    Organic synthesis, mechanistic chemistry, and computational approaches for understanding reactivity.
+  </p>
+  <div class="hero-links">
+    <a class="btn" href="/research/">Research</a>
+    <a class="btn" href="/projects/">Projects</a>
+    <a class="btn" href="/publications/">Publications</a>
+    <a class="btn" href="/about/">About</a>
   </div>
-  <pre><code>$ whoami
-Alan (Xinchen) He
-
-$ role
-MSci Chemistry with Molecular Physics student @ Imperial College London
-
-$ focus
-organic synthesis | mechanistic chemistry | computational chemistry
-
-$ status
-building reproducible research workflows + academic portfolio</code></pre>
 </div>
 
-## Quick Links
+## Focus Areas
 
-- [Research](/research/)
-- [Projects](/projects/)
-- [Publications](/publications/)
-- [About](/about/)
-
-## Featured Work
-
-<div class="card-grid">
-  <a class="card" href="/research/">
-    <h3>1-Ar-MCP Dimerisation (UROP)</h3>
-    <p>Gram-scale synthesis and mechanistic study of non-classical carbocation rearrangement pathways.</p>
-    <span class="tag">Organic Synthesis</span>
-    <span class="tag">Mechanism</span>
-  </a>
-
-  <a class="card" href="/research/">
-    <h3>Computational Reactivity Analysis</h3>
-    <p>Computational workflows to investigate special reactivity trends in strained systems and diazirine chemistry.</p>
-    <span class="tag">Computational Chemistry</span>
-    <span class="tag">Python</span>
-  </a>
-
-  <a class="card" href="/research/">
-    <h3>Crystal Structure Prediction Benchmarking</h3>
-    <p>Benchmarking methodology choices for periodic systems with emphasis on reproducibility and comparison quality.</p>
-    <span class="tag">Materials Modeling</span>
-    <span class="tag">Benchmarking</span>
-  </a>
+<div class="grid">
+  <div class="panel">
+    <h3>Organic Synthesis</h3>
+    <p>Strained-ring and carbocation-driven reactivity, with practical gram-scale synthetic development.</p>
+  </div>
+  <div class="panel">
+    <h3>Mechanistic Analysis</h3>
+    <p>Combining experimental observations and computational evidence to rationalise selectivity and pathways.</p>
+  </div>
+  <div class="panel">
+    <h3>Computational Chemistry</h3>
+    <p>Reproducible workflows for reaction profiling, benchmarking, and data-driven research support.</p>
+  </div>
 </div>
 
-## Recent Notes
+## Current Highlights
 
-Use this blog for concise technical notes, research updates, and chemistry/computation workflow writeups.
+- UROP (Spivey Group): Dimerisation of 1-arylmethylenecyclopropane (1-Ar-MCP)
+- Summer Research (Ganose Group): Benchmarking crystal structure prediction methodologies
+- Building lightweight, reproducible chemistry research workflows
 
-- Latest post: [Welcome to my blog](/updates/2026/04/18/welcome-to-my-blog/)
+## Latest Post
+
+- [Welcome to my blog](/updates/2026/04/18/welcome-to-my-blog/)

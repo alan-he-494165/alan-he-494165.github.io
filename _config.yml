@@ -4,7 +4,7 @@ description: >-
   Academic profile and research notes in chemistry and molecular science.
 baseurl: ""
 url: "https://alan-he-494165.github.io"
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
