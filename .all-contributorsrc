@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "sujaykundu777",
-      "name": "Sujay Kundu",
+      "login": "alan-he-494165",
+      "name": "Alan He",
       "avatar_url": "https://avatars.githubusercontent.com/u/10703200?v=4",
-      "profile": "https://sujaykundu.com",
+      "profile": "https://alan-he-494165.github.io",
       "contributions": [
         "infra",
         "design",
@@ -139,7 +139,7 @@
   ],
   "contributorsPerLine": 7,
   "projectName": "devlopr-jekyll",
-  "projectOwner": "sujaykundu777",
+  "projectOwner": "alan-he-494165",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
