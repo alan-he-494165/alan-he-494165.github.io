@@ -1,0 +1,18 @@
+title: Alan He
+email: alanxh.research@gmail.com
+description: >-
+  Personal blog — notes on tutoring, chemistry, and learning.
+baseurl: ""
+url: "https://alan-he-494165.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: auto
+
+markdown: kramdown
+highlighter: rouge
+
+# Build settings
+permalink: /:categories/:year/:month/:day/:title/
