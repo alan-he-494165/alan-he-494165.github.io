@@ -8,9 +8,14 @@ permalink: /research/
 
 - Organic synthesis and strained-ring reactivity
 - Mechanistic analysis of selective transformations
-- Computational chemistry workflows for reproducible studies
+- Computational chemistry workflows for reproducible and reliable studies
+- Excited State dynamics
+- Data sturcture for chemistry / cheminformatics
 
 ## Current work
 
-- UROP: dimerisation of 1-arylmethylenecyclopropane (1-Ar-MCP)
+- Dimerisation of 1-arylmethylenecyclopropane (1-Ar-MCP)
+- A new synthesis of 1-Ar-MCP
+- A special reactivity of Diazirine
 - Benchmarking workflows for crystal structure prediction
+- Tree Data Structure for Chemistry
